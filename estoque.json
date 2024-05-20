@@ -1,0 +1,68 @@
+{
+    "estoque": [
+      {
+        "produto": "Camiseta",
+        "descricao": "Camiseta básica de algodão",
+        "preco": 29.99,
+        "quantidade": 100,
+        "categoria": "Vestuário",
+        "fornecedor": "Fábrica de Roupas Ltda"
+      },
+      {
+        "produto": "Tênis",
+        "descricao": "Tênis esportivo",
+        "preco": 129.99,
+        "quantidade": 50,
+        "categoria": "Calçados",
+        "fornecedor": "Sapatarias S.A."
+      },
+      {
+        "produto": "Celular",
+        "descricao": "Smartphone de última geração",
+        "preco": 999.99,
+        "quantidade": 20,
+        "categoria": "Eletrônicos",
+        "fornecedor": "Tecnologia Avançada Ltda"
+      },
+      {
+        "produto": "Livro",
+        "descricao": "Best-seller do ano",
+        "preco": 39.99,
+        "quantidade": 200,
+        "categoria": "Livros",
+        "fornecedor": "Editora Cultura Ltda"
+      },
+      {
+        "produto": "Mochila",
+        "descricao": "Mochila resistente para viagens",
+        "preco": 49.99,
+        "quantidade": 80,
+        "categoria": "Acessórios",
+        "fornecedor": "Malas e Acessórios Ltda"
+      },
+      {
+        "produto": "Computador",
+        "descricao": "Computador de última geração",
+        "preco": 1999.99,
+        "quantidade": 10,
+        "categoria": "Eletrônicos",
+        "fornecedor": "Tecnologia Avançada Ltda"
+      },
+      {
+        "produto": "Câmera Fotográfica",
+        "descricao": "Câmera profissional DSLR",
+        "preco": 1499.99,
+        "quantidade": 30,
+        "categoria": "Eletrônicos",
+        "fornecedor": "Fotografia Inc."
+      },
+      {
+        "produto": "Bola de Futebol",
+        "descricao": "Bola oficial de futebol",
+        "preco": 19.99,
+        "quantidade": 150,
+        "categoria": "Esportes",
+        "fornecedor": "Esportes Ltda"
+      }
+    ]
+  }
